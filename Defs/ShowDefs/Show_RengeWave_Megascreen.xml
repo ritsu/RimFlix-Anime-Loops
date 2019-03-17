@@ -1,0 +1,66 @@
+<?xml version="1.0" encoding="utf-8" ?>
+
+<Defs>
+
+  <RimFlix.ShowDef>
+    <defName>RengeWave_Mega</defName>
+    <label>Renge wave - Megascreen</label>
+    <description>Renge wave</description>
+    <televisionDefs>
+      <li>MegascreenTelevision</li>
+    </televisionDefs>
+    <secondsBetweenFrames>0.12</secondsBetweenFrames>
+    <sound />
+    <frames>
+      <li>
+        <texPath>Shows/RengeWave/Mega_RengeWave_00</texPath>
+        <graphicClass>Graphic_Single</graphicClass>
+      </li>
+      <li>
+        <texPath>Shows/RengeWave/Mega_RengeWave_01</texPath>
+        <graphicClass>Graphic_Single</graphicClass>
+      </li>
+      <li>
+        <texPath>Shows/RengeWave/Mega_RengeWave_02</texPath>
+        <graphicClass>Graphic_Single</graphicClass>
+      </li>
+      <li>
+        <texPath>Shows/RengeWave/Mega_RengeWave_03</texPath>
+        <graphicClass>Graphic_Single</graphicClass>
+      </li>
+      <li>
+        <texPath>Shows/RengeWave/Mega_RengeWave_04</texPath>
+        <graphicClass>Graphic_Single</graphicClass>
+      </li>
+      <li>
+        <texPath>Shows/RengeWave/Mega_RengeWave_05</texPath>
+        <graphicClass>Graphic_Single</graphicClass>
+      </li>
+      <li>
+        <texPath>Shows/RengeWave/Mega_RengeWave_06</texPath>
+        <graphicClass>Graphic_Single</graphicClass>
+      </li>
+      <li>
+        <texPath>Shows/RengeWave/Mega_RengeWave_07</texPath>
+        <graphicClass>Graphic_Single</graphicClass>
+      </li>
+      <li>
+        <texPath>Shows/RengeWave/Mega_RengeWave_08</texPath>
+        <graphicClass>Graphic_Single</graphicClass>
+      </li>
+      <li>
+        <texPath>Shows/RengeWave/Mega_RengeWave_09</texPath>
+        <graphicClass>Graphic_Single</graphicClass>
+      </li>
+      <li>
+        <texPath>Shows/RengeWave/Mega_RengeWave_10</texPath>
+        <graphicClass>Graphic_Single</graphicClass>
+      </li>
+      <li>
+        <texPath>Shows/RengeWave/Mega_RengeWave_11</texPath>
+        <graphicClass>Graphic_Single</graphicClass>
+      </li>
+    </frames>
+  </RimFlix.ShowDef>
+
+</Defs>

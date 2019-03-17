@@ -1,0 +1,70 @@
+<?xml version="1.0" encoding="utf-8" ?>
+
+<Defs>
+
+  <RimFlix.ShowDef>
+    <defName>KagamiHair_Tube</defName>
+    <label>Kagami Hair - Tube</label>
+    <description>Kagami playing with her hair</description>
+    <televisionDefs>
+      <li>TubeTelevision</li>
+    </televisionDefs>
+    <secondsBetweenFrames>0.08</secondsBetweenFrames>
+    <sound />
+    <frames>
+      <li>
+        <texPath>Shows/KagamiHair/Tube_KagamiHair_00</texPath>
+        <graphicClass>Graphic_Single</graphicClass>
+      </li>
+      <li>
+        <texPath>Shows/KagamiHair/Tube_KagamiHair_01</texPath>
+        <graphicClass>Graphic_Single</graphicClass>
+      </li>
+      <li>
+        <texPath>Shows/KagamiHair/Tube_KagamiHair_02</texPath>
+        <graphicClass>Graphic_Single</graphicClass>
+      </li>
+      <li>
+        <texPath>Shows/KagamiHair/Tube_KagamiHair_03</texPath>
+        <graphicClass>Graphic_Single</graphicClass>
+      </li>
+      <li>
+        <texPath>Shows/KagamiHair/Tube_KagamiHair_04</texPath>
+        <graphicClass>Graphic_Single</graphicClass>
+      </li>
+      <li>
+        <texPath>Shows/KagamiHair/Tube_KagamiHair_05</texPath>
+        <graphicClass>Graphic_Single</graphicClass>
+      </li>
+      <li>
+        <texPath>Shows/KagamiHair/Tube_KagamiHair_06</texPath>
+        <graphicClass>Graphic_Single</graphicClass>
+      </li>
+      <li>
+        <texPath>Shows/KagamiHair/Tube_KagamiHair_07</texPath>
+        <graphicClass>Graphic_Single</graphicClass>
+      </li>
+      <li>
+        <texPath>Shows/KagamiHair/Tube_KagamiHair_08</texPath>
+        <graphicClass>Graphic_Single</graphicClass>
+      </li>
+      <li>
+        <texPath>Shows/KagamiHair/Tube_KagamiHair_09</texPath>
+        <graphicClass>Graphic_Single</graphicClass>
+      </li>
+      <li>
+        <texPath>Shows/KagamiHair/Tube_KagamiHair_10</texPath>
+        <graphicClass>Graphic_Single</graphicClass>
+      </li>
+      <li>
+        <texPath>Shows/KagamiHair/Tube_KagamiHair_11</texPath>
+        <graphicClass>Graphic_Single</graphicClass>
+      </li>
+      <li>
+        <texPath>Shows/KagamiHair/Tube_KagamiHair_12</texPath>
+        <graphicClass>Graphic_Single</graphicClass>
+      </li>
+    </frames>
+  </RimFlix.ShowDef>
+
+</Defs>

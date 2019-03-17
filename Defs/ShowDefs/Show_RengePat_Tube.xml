@@ -1,0 +1,82 @@
+<?xml version="1.0" encoding="utf-8" ?>
+
+<Defs>
+
+  <RimFlix.ShowDef>
+    <defName>RengePat_Tube</defName>
+    <label>Renge Pat - Tube</label>
+    <description>Renge pat</description>
+    <televisionDefs>
+      <li>TubeTelevision</li>
+    </televisionDefs>
+    <secondsBetweenFrames>0.07</secondsBetweenFrames>
+    <sound />
+    <frames>
+      <li>
+        <texPath>Shows/RengePat/Tube_RengePat_00</texPath>
+        <graphicClass>Graphic_Single</graphicClass>
+      </li>
+      <li>
+        <texPath>Shows/RengePat/Tube_RengePat_01</texPath>
+        <graphicClass>Graphic_Single</graphicClass>
+      </li>
+      <li>
+        <texPath>Shows/RengePat/Tube_RengePat_02</texPath>
+        <graphicClass>Graphic_Single</graphicClass>
+      </li>
+      <li>
+        <texPath>Shows/RengePat/Tube_RengePat_03</texPath>
+        <graphicClass>Graphic_Single</graphicClass>
+      </li>
+      <li>
+        <texPath>Shows/RengePat/Tube_RengePat_04</texPath>
+        <graphicClass>Graphic_Single</graphicClass>
+      </li>
+      <li>
+        <texPath>Shows/RengePat/Tube_RengePat_05</texPath>
+        <graphicClass>Graphic_Single</graphicClass>
+      </li>
+      <li>
+        <texPath>Shows/RengePat/Tube_RengePat_06</texPath>
+        <graphicClass>Graphic_Single</graphicClass>
+      </li>
+      <li>
+        <texPath>Shows/RengePat/Tube_RengePat_07</texPath>
+        <graphicClass>Graphic_Single</graphicClass>
+      </li>
+      <li>
+        <texPath>Shows/RengePat/Tube_RengePat_08</texPath>
+        <graphicClass>Graphic_Single</graphicClass>
+      </li>
+      <li>
+        <texPath>Shows/RengePat/Tube_RengePat_09</texPath>
+        <graphicClass>Graphic_Single</graphicClass>
+      </li>
+      <li>
+        <texPath>Shows/RengePat/Tube_RengePat_10</texPath>
+        <graphicClass>Graphic_Single</graphicClass>
+      </li>
+      <li>
+        <texPath>Shows/RengePat/Tube_RengePat_11</texPath>
+        <graphicClass>Graphic_Single</graphicClass>
+      </li>
+      <li>
+        <texPath>Shows/RengePat/Tube_RengePat_12</texPath>
+        <graphicClass>Graphic_Single</graphicClass>
+      </li>
+      <li>
+        <texPath>Shows/RengePat/Tube_RengePat_13</texPath>
+        <graphicClass>Graphic_Single</graphicClass>
+      </li>
+      <li>
+        <texPath>Shows/RengePat/Tube_RengePat_14</texPath>
+        <graphicClass>Graphic_Single</graphicClass>
+      </li>
+      <li>
+        <texPath>Shows/RengePat/Tube_RengePat_15</texPath>
+        <graphicClass>Graphic_Single</graphicClass>
+      </li>
+    </frames>
+  </RimFlix.ShowDef>
+
+</Defs>

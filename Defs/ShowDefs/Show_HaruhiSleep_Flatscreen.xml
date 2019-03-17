@@ -1,0 +1,74 @@
+<?xml version="1.0" encoding="utf-8" ?>
+
+<Defs>
+
+  <RimFlix.ShowDef>
+    <defName>HaruhiSleep_Flat</defName>
+    <label>Haruhi Sleep - Flatscreen</label>
+    <description>Haruhi snoozing</description>
+    <televisionDefs>
+      <li>FlatscreenTelevision</li>
+    </televisionDefs>
+    <secondsBetweenFrames>0.13</secondsBetweenFrames>
+    <sound />
+    <frames>
+      <li>
+        <texPath>Shows/HaruhiSleep/Flat_HaruhiSleep_00</texPath>
+        <graphicClass>Graphic_Single</graphicClass>
+      </li>
+      <li>
+        <texPath>Shows/HaruhiSleep/Flat_HaruhiSleep_01</texPath>
+        <graphicClass>Graphic_Single</graphicClass>
+      </li>
+      <li>
+        <texPath>Shows/HaruhiSleep/Flat_HaruhiSleep_02</texPath>
+        <graphicClass>Graphic_Single</graphicClass>
+      </li>
+      <li>
+        <texPath>Shows/HaruhiSleep/Flat_HaruhiSleep_03</texPath>
+        <graphicClass>Graphic_Single</graphicClass>
+      </li>
+      <li>
+        <texPath>Shows/HaruhiSleep/Flat_HaruhiSleep_04</texPath>
+        <graphicClass>Graphic_Single</graphicClass>
+      </li>
+      <li>
+        <texPath>Shows/HaruhiSleep/Flat_HaruhiSleep_05</texPath>
+        <graphicClass>Graphic_Single</graphicClass>
+      </li>
+      <li>
+        <texPath>Shows/HaruhiSleep/Flat_HaruhiSleep_06</texPath>
+        <graphicClass>Graphic_Single</graphicClass>
+      </li>
+      <li>
+        <texPath>Shows/HaruhiSleep/Flat_HaruhiSleep_07</texPath>
+        <graphicClass>Graphic_Single</graphicClass>
+      </li>
+      <li>
+        <texPath>Shows/HaruhiSleep/Flat_HaruhiSleep_08</texPath>
+        <graphicClass>Graphic_Single</graphicClass>
+      </li>
+      <li>
+        <texPath>Shows/HaruhiSleep/Flat_HaruhiSleep_09</texPath>
+        <graphicClass>Graphic_Single</graphicClass>
+      </li>
+      <li>
+        <texPath>Shows/HaruhiSleep/Flat_HaruhiSleep_10</texPath>
+        <graphicClass>Graphic_Single</graphicClass>
+      </li>
+      <li>
+        <texPath>Shows/HaruhiSleep/Flat_HaruhiSleep_11</texPath>
+        <graphicClass>Graphic_Single</graphicClass>
+      </li>
+      <li>
+        <texPath>Shows/HaruhiSleep/Flat_HaruhiSleep_12</texPath>
+        <graphicClass>Graphic_Single</graphicClass>
+      </li>
+      <li>
+        <texPath>Shows/HaruhiSleep/Flat_HaruhiSleep_13</texPath>
+        <graphicClass>Graphic_Single</graphicClass>
+      </li>
+    </frames>
+  </RimFlix.ShowDef>
+
+</Defs>

@@ -1,0 +1,70 @@
+<?xml version="1.0" encoding="utf-8" ?>
+
+<Defs>
+
+  <RimFlix.ShowDef>
+    <defName>KumikoHair_Flat</defName>
+    <label>Kumiko Hair - Flatscreen</label>
+    <description>Kumiko getting her hair ruffled</description>
+    <televisionDefs>
+      <li>FlatscreenTelevision</li>
+    </televisionDefs>
+    <secondsBetweenFrames>0.05</secondsBetweenFrames>
+    <sound />
+    <frames>
+      <li>
+        <texPath>Shows/KumikoHair/Flat_KumikoHair_00</texPath>
+        <graphicClass>Graphic_Single</graphicClass>
+      </li>
+      <li>
+        <texPath>Shows/KumikoHair/Flat_KumikoHair_01</texPath>
+        <graphicClass>Graphic_Single</graphicClass>
+      </li>
+      <li>
+        <texPath>Shows/KumikoHair/Flat_KumikoHair_02</texPath>
+        <graphicClass>Graphic_Single</graphicClass>
+      </li>
+      <li>
+        <texPath>Shows/KumikoHair/Flat_KumikoHair_03</texPath>
+        <graphicClass>Graphic_Single</graphicClass>
+      </li>
+      <li>
+        <texPath>Shows/KumikoHair/Flat_KumikoHair_04</texPath>
+        <graphicClass>Graphic_Single</graphicClass>
+      </li>
+      <li>
+        <texPath>Shows/KumikoHair/Flat_KumikoHair_05</texPath>
+        <graphicClass>Graphic_Single</graphicClass>
+      </li>
+      <li>
+        <texPath>Shows/KumikoHair/Flat_KumikoHair_06</texPath>
+        <graphicClass>Graphic_Single</graphicClass>
+      </li>
+      <li>
+        <texPath>Shows/KumikoHair/Flat_KumikoHair_07</texPath>
+        <graphicClass>Graphic_Single</graphicClass>
+      </li>
+      <li>
+        <texPath>Shows/KumikoHair/Flat_KumikoHair_08</texPath>
+        <graphicClass>Graphic_Single</graphicClass>
+      </li>
+      <li>
+        <texPath>Shows/KumikoHair/Flat_KumikoHair_09</texPath>
+        <graphicClass>Graphic_Single</graphicClass>
+      </li>
+      <li>
+        <texPath>Shows/KumikoHair/Flat_KumikoHair_10</texPath>
+        <graphicClass>Graphic_Single</graphicClass>
+      </li>
+      <li>
+        <texPath>Shows/KumikoHair/Flat_KumikoHair_11</texPath>
+        <graphicClass>Graphic_Single</graphicClass>
+      </li>
+      <li>
+        <texPath>Shows/KumikoHair/Flat_KumikoHair_12</texPath>
+        <graphicClass>Graphic_Single</graphicClass>
+      </li>
+    </frames>
+  </RimFlix.ShowDef>
+
+</Defs>

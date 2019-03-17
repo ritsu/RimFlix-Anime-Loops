@@ -1,0 +1,82 @@
+<?xml version="1.0" encoding="utf-8" ?>
+
+<Defs>
+
+  <RimFlix.ShowDef>
+    <defName>KumikoSakura_Flat</defName>
+    <label>Kumiko Sakura - Flatscreen</label>
+    <description>Kumiko looking up at sakura blossoms</description>
+    <televisionDefs>
+      <li>FlatscreenTelevision</li>
+    </televisionDefs>
+    <secondsBetweenFrames>0.09</secondsBetweenFrames>
+    <sound />
+    <frames>
+      <li>
+        <texPath>Shows/KumikoSakura/Flat_KumikoSakura_00</texPath>
+        <graphicClass>Graphic_Single</graphicClass>
+      </li>
+      <li>
+        <texPath>Shows/KumikoSakura/Flat_KumikoSakura_01</texPath>
+        <graphicClass>Graphic_Single</graphicClass>
+      </li>
+      <li>
+        <texPath>Shows/KumikoSakura/Flat_KumikoSakura_02</texPath>
+        <graphicClass>Graphic_Single</graphicClass>
+      </li>
+      <li>
+        <texPath>Shows/KumikoSakura/Flat_KumikoSakura_03</texPath>
+        <graphicClass>Graphic_Single</graphicClass>
+      </li>
+      <li>
+        <texPath>Shows/KumikoSakura/Flat_KumikoSakura_04</texPath>
+        <graphicClass>Graphic_Single</graphicClass>
+      </li>
+      <li>
+        <texPath>Shows/KumikoSakura/Flat_KumikoSakura_05</texPath>
+        <graphicClass>Graphic_Single</graphicClass>
+      </li>
+      <li>
+        <texPath>Shows/KumikoSakura/Flat_KumikoSakura_06</texPath>
+        <graphicClass>Graphic_Single</graphicClass>
+      </li>
+      <li>
+        <texPath>Shows/KumikoSakura/Flat_KumikoSakura_07</texPath>
+        <graphicClass>Graphic_Single</graphicClass>
+      </li>
+      <li>
+        <texPath>Shows/KumikoSakura/Flat_KumikoSakura_08</texPath>
+        <graphicClass>Graphic_Single</graphicClass>
+      </li>
+      <li>
+        <texPath>Shows/KumikoSakura/Flat_KumikoSakura_09</texPath>
+        <graphicClass>Graphic_Single</graphicClass>
+      </li>
+      <li>
+        <texPath>Shows/KumikoSakura/Flat_KumikoSakura_10</texPath>
+        <graphicClass>Graphic_Single</graphicClass>
+      </li>
+      <li>
+        <texPath>Shows/KumikoSakura/Flat_KumikoSakura_11</texPath>
+        <graphicClass>Graphic_Single</graphicClass>
+      </li>
+      <li>
+        <texPath>Shows/KumikoSakura/Flat_KumikoSakura_12</texPath>
+        <graphicClass>Graphic_Single</graphicClass>
+      </li>
+      <li>
+        <texPath>Shows/KumikoSakura/Flat_KumikoSakura_13</texPath>
+        <graphicClass>Graphic_Single</graphicClass>
+      </li>
+      <li>
+        <texPath>Shows/KumikoSakura/Flat_KumikoSakura_14</texPath>
+        <graphicClass>Graphic_Single</graphicClass>
+      </li>
+      <li>
+        <texPath>Shows/KumikoSakura/Flat_KumikoSakura_15</texPath>
+        <graphicClass>Graphic_Single</graphicClass>
+      </li>
+    </frames>
+  </RimFlix.ShowDef>
+
+</Defs>
