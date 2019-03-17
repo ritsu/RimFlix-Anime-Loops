@@ -2,7 +2,7 @@
 A few looping animations for use with <a href="https://github.com/ritsu/RimFlix">RimFlix</a>. This should be below RimFlix in the mod order.
 
 ## A note on dimensions
-The base dimensions for TV textures in Rimworld is 64x64. Tube televisions are scaled 1x1, Flatscreens are 2x1, and Megascreens are 3x1. The "screen area" within these TVs have slightly different aspect ratios due to margins. Here are the default dimensions for each screen area in RimFlix, along with scaled versions for higher definition textures.
+The base dimensions for TV textures in Rimworld is 64 x 64 pixels. Tube televisions are scaled 1x1, Flatscreens are 2x1, and Megascreens are 3x1. The "screen area" within these TVs have slightly different aspect ratios due to margins. Here are the default dimensions for each screen area in RimFlix, along with scaled versions for higher definition textures.
 
 #### Tube Telvision
       79 x  64
