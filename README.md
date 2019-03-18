@@ -4,7 +4,7 @@ A few looping animations for use with [RimFlix](https://github.com/ritsu/RimFlix
 ## Install
 1. Download one of the [releases](https://github.com/ritsu/RimFlix-Anime-Loops/releases) and extract its contents.
 2. Move the `RimFlix - Anime Loops` folder to `Steam\steamapps\common\RimWorld\Mods`
-3. In RimWorld, go to the **Mods** menu and activate the **RimFlix - Anime Loops** mod.
+3. In RimWorld, go to the **Mods** menu and activate **RimFlix - Anime Loops**.
 Make sure to place this mod below the RimFlix mod in the load order.
 
 ## A note on dimensions
