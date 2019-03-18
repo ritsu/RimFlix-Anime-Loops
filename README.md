@@ -4,7 +4,8 @@ A few looping animations for use with [RimFlix](https://github.com/ritsu/RimFlix
 ## Install
 1. Download one of the [releases](https://github.com/ritsu/RimFlix-Anime-Loops/releases) and extract its contents.
 2. Move the `RimFlix - Anime Loops` folder to `Steam\steamapps\common\RimWorld\Mods`
-2. In RimWorld, go to the **Mods** menu and activate the **RimFlix - Anime Loops** mod.
+3. In RimWorld, go to the **Mods** menu and activate the **RimFlix - Anime Loops** mod.
+Make sure to place this mod below the RimFlix mod in the load order.
 
 ## A note on dimensions
 The base dimensions for TV textures in Rimworld is 64 x 64 pixels. Tube televisions are scaled 1x1, Flatscreens are 2x1, and Megascreens are 3x1. The "screen area" within these TVs have slightly different aspect ratios due to margins. Here are the default dimensions for each screen area in RimFlix, along with scaled versions for higher definition textures.
