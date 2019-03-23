@@ -25,4 +25,6 @@ The base dimensions for TV textures in Rimworld is 64 x 64 pixels. Tube televisi
      451 x 128
      902 x 256
 
+If you are creating shows to share with others, it's probably best to create images with 64 or 128 pixel height. 256 pixel height images will take a lot longer to load and consume a lot more memory, and the difference is not really noticeable unless you use a camera mod to zoom in much more than normal.
+
 The files in this repo are 128 pixels in height. 64 pixel and 256 pixel versions are available in [releases](https://github.com/ritsu/RimFlix-Anime-Loops/releases).
