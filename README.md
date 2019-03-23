@@ -30,6 +30,8 @@ If you are creating shows to share with others, it's probably best to create ima
 The files in this repo are 128 pixels in height. 64 pixel and 256 pixel versions are available in [releases](https://github.com/ritsu/RimFlix-Anime-Loops/releases).
 
 ## Using this repo as a template
+Note: There is also a [blank template](https://github.com/ritsu/RimFlix-Template) if you would rather start with a clean slate. It's basically the same as this repo but with fewer shows and more generic XML files.
+
 1. Copy the folder structure of this repo. Ignore `.gitignore`, `LICENSE`, `README.md`, and the `Languages` folder.
 2. Rename the root folder from `RimFlix - Anime Loops` to a name that represents your shows.
 3. Replace images in `Textures/Shows/` with your shows' images.
