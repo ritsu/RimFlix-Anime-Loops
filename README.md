@@ -28,3 +28,20 @@ The base dimensions for TV textures in Rimworld is 64 x 64 pixels. Tube televisi
 If you are creating shows to share with others, it's probably best to create images with 64 or 128 pixel height. 256 pixel height images will take a lot longer to load and consume a lot more memory, and the difference is not really noticeable unless you use a camera mod to zoom in much more than normal.
 
 The files in this repo are 128 pixels in height. 64 pixel and 256 pixel versions are available in [releases](https://github.com/ritsu/RimFlix-Anime-Loops/releases).
+
+## Using this repo as a template
+1. Copy the folder structure of this repo. Ignore `.gitignore`, `LICENSE`, `README.md`, and the `Languages` folder.
+2. Rename the root folder from `RimFlix - Anime Loops` to a name that represents your shows.
+3. Replace images in `Textures/Shows/` with your shows' images.
+4. Rename and modify the XML files in `Defs/ShowDefs` with your shows' information.
+5. Modify `About/about.xml` with your information, and replace the preview image with your own.
+6. Follow the [Install](#install) instructions to install and activate your show, using the files you just created / modified. 
+
+## Uploading to Steam Workshop
+Once you have installed your show, which is basically a mod, and tested it to see that it works as expected in game, you can upload it to Steam Workshop by doing the following:
+
+1. In **Options**, turn on **Dev Mode** 
+2. In the **Mods** menu, select your mod and click **Upload to Steam Workshop**
+
+Follow the rest of the instructions in game.
+
