@@ -33,7 +33,7 @@ The files in this repo are 128 pixels in height. 64 pixel and 256 pixel versions
 1. Copy the folder structure of this repo. Ignore `.gitignore`, `LICENSE`, `README.md`, and the `Languages` folder.
 2. Rename the root folder from `RimFlix - Anime Loops` to a name that represents your shows.
 3. Replace images in `Textures/Shows/` with your shows' images.
-4. Rename and modify the XML files in `Defs/ShowDefs` with your shows' information.
+4. Rename and modify the XML files in `Defs/ShowDefs` with your shows' information. The fields you'll want to change are `defName`, `label`, `description`, `secondsBetweenFrames`, and `texPath`. Also, put the television(s) you want your show to play on in `televisionDefs`. You can specify more multiple televisions, but since each television has different aspect ratios, it will probably look weird if you use one set of images for more than one television.
 5. Modify `About/about.xml` with your information, and replace the preview image with your own.
 6. Follow the [Install](#install) instructions to install and activate your show, using the files you just created / modified. 
 
