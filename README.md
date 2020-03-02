@@ -36,8 +36,13 @@ Note: There is also a [blank template](https://github.com/ritsu/RimFlix-Template
 2. Rename the root folder from `RimFlix - Anime Loops` to a name that represents your shows.
 3. Replace images in `Textures/Shows/` with your shows' images.
 4. Rename and modify the XML files in `Defs/ShowDefs` with your shows' information. The fields you'll want to change are `defName`, `label`, `description`, `secondsBetweenFrames`, and `texPath`. Also, put the television(s) you want your show to play on in `televisionDefs`. You can specify more multiple televisions, but since each television has different aspect ratios, it will probably look weird if you use one set of images for more than one television.
-5. Modify `About/about.xml` with your information, and replace the preview image with your own.
-6. Follow the [Install](#install) instructions to install and activate your show, using the files you just created / modified. 
+5. Update `About/about.xml` with your information:
+      - `<name>Your Show Name</name>`
+      - `<author>Your Name</author>`
+      - `<packageId>YourName.RimFlix.YourShowName</packageId>`
+      - `<description>Your Show Description</description>`
+6. Replace the preview image with your own.
+7. Follow the [Install](#install) instructions to install and activate your show, using the files you just created / modified. 
 
 ## Uploading to Steam Workshop
 Once you have installed your show, which is basically a mod, and tested it to see that it works as expected in game, you can upload it to Steam Workshop by doing the following:
